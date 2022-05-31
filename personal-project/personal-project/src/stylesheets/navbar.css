@@ -1,0 +1,10 @@
+.nav {
+    display: block;
+    background-color: aqua;
+    width: 100%;
+    height: 300px;
+}
+.links {
+    float: right;
+    height: 50px;
+}

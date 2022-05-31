@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+.nav {
+  display: inline-block;
+  width: 100%;
+  height: 100px;
+  max-height: 100px;
+  background-color: rgb(140, 177, 237);
+}
+.links {
+  float: right;
+  height: 50px;
+  padding: 10px;
+  margin: 10px;
+  margin-top: 50px;
+  width: 100%;
+  
+  position: absolute;
+  margin-left: 350px;
+}
+.logo {
+  width: 50%;
+  height: 100px;
+  float: left;
+  overflow: hidden;
+}
+
+#log {
+  width: 240px;
+  height: 100px;
+  margin-top: -15px;
+  margin-left: -290px;
+  position: absolute;
+  overflow: hidden;
+}
+#log1 {
+  width: 180px;
+  height: 170px;
+  margin-top: -18px;
+  margin-left: -440px;
+  position: absolute;
+}
+a {
+  margin: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+  border-right: 2px solid rgb(78, 78, 78);
+  font-weight: bold;
+}
+a:hover {
+  font-style: bold;
+  color: aliceblue;
+  border-right: 4px solid aliceblue;
+  transform: scale(1.05);
+}
+#fuckme {
+  font-weight: bold;
+  color: rgb(107, 107, 107);
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 258px; 
+}
